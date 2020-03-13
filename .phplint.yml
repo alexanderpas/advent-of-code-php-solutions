@@ -1,0 +1,9 @@
+path:
+    - public
+    - run.php
+    - src
+    - tests
+extensions:
+    - php
+exclude:
+    - vendor
